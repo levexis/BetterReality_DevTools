@@ -9,6 +9,6 @@
   "licenseUrl": "https://github.com/levexis/BetterReality_DevTools/blob/main/LICENSE.md",
   "repositoryUrl": "https://github.com/levexis/BetterReality_DevTools",
   "dependencies": {
-    "com.unity.package-manager-ui": "1.0.1"
+    "com.unity.package-manager-ui": "1.0.0"
   }
 }
