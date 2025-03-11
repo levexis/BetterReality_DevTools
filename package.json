@@ -1,6 +1,6 @@
 {
   "name": "com.betterrealityvr.dev-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "BetterReality Dev Tools",
   "description": "Adds debug menu etc",
   "unity": "2022.3",

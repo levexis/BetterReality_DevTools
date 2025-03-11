@@ -1,5 +1,5 @@
 {
-    "name": "BetterReality.Editor.Tests",
+    "name": "BetterReality DevTools Editor Tests",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
